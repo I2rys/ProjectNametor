@@ -1,0 +1,25 @@
+{
+    "name": "projectnametor",
+    "version": "1.0.0",
+    "description": "An API to generate random projects name.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "start:dev": "nodemon index.js",
+        "test": "jest"
+    },
+    "keywords": [
+      "i2rys",
+      "projects-generator",
+      "names-generator",
+      "name-generator",
+      "projects-name-generator"
+    ],
+    "repository": "https://github.com/I2rys/ProjectNametor",
+    "author": {
+      "name": "I2rys",
+      "email": "i2rys@protonmail.com",
+      "website": "https://i2rys.xyz"
+    },
+    "license": "MIT"
+  }
